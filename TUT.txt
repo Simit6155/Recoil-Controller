@@ -1,3 +1,0 @@
-So for this to work you need C++. So if your not familiar with C++ you also need a compiler for this to work.
-you can install a compiler like Mingw , msys .... just look up in youtube cuz its very complicated for windows.
-However if your on linux or mac you just gotta install a compiler from the terminal with commands which is easy.
